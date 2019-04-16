@@ -10,4 +10,6 @@ Definição de um proxy reverso que lide com o DNS e envie o tráfego de dados c
  - [] Escrever o Dockerfile do container do Nginx.
  - [] Escrever o Dockerfile do container do Teamspeak.
  - [] Compose dos serviços e configurações.
- 
+
+### Traefik
+Verificar a versão 2.0 do Traefik, no milestone está definido o suporte a essa função. 
