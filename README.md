@@ -11,5 +11,10 @@ Definição de um proxy reverso que lide com o DNS e envie o tráfego de dados c
  - [] Escrever o Dockerfile do container do Teamspeak.
  - [] Compose dos serviços e configurações.
 
+### Links e documentações:
+ - https://docs.nginx.com/nginx/admin-guide/load-balancer/tcp-udp-load-balancer/
+ - https://linustechtips.com/main/topic/600508-reverse-proxy-udp/
+
 ### Traefik
-Verificar a versão 2.0 do Traefik, no milestone está definido o suporte a essa função. 
+Verificar a versão 2.0 do Traefik, no milestone está definido o suporte a essa função.
+Documentation: https://blog.containo.us/back-to-traefik-2-0-2f9aa17be305 
